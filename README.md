@@ -1,5 +1,7 @@
 # Cobertura de suelo usando Earth Engine y R
 
+![plot](./docs/orissa.png)
+
 ## Caracteristicas
 
 - Grafica uso de suelo de cualquier parte del mundo usando el dataset [dynamic world v1][dw1]
