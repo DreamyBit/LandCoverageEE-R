@@ -39,5 +39,5 @@ GNU General Public License v3.0
    [dw1]: <https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_DYNAMICWORLD_V1>
    [gaul1]: <https://developers.google.com/earth-engine/datasets/catalog/FAO_GAUL_2015_level1>
    [gaul2]: <https://developers.google.com/earth-engine/datasets/catalog/FAO_GAUL_2015_level2>
-   [gitguide]: <https://github.com/DreamyBit/LandCoverageEE-R/blob/main/Guia%20Script%20-%20Covertura%20de%20suelo%20usando%20Earth%20Engine%20y%20R.pdf>
+   [gitguide]: <https://github.com/DreamyBit/LandCoverageEE-R/blob/readme/docs/Guia%20Script%20-%20Covertura%20de%20suelo%20usando%20Earth%20Engine%20y%20R.pdf>
    [repo]: <https://github.com/DreamyBit/LandCoverageEE-R>
