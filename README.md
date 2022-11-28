@@ -1,6 +1,8 @@
 # Cobertura de suelo usando Earth Engine y R
 
 ![plot](./docs/orissa.png)
+![Alt text](https://github.com/DreamyBit/LandCoverageEE-R/blob/readme/docs/orissa.png?sanitize=true)
+<img src="https://github.com/DreamyBit/LandCoverageEE-R/blob/readme/docs/orissa.png?sanitize=true">
 
 ## Caracteristicas
 
