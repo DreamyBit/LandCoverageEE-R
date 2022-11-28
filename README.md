@@ -36,8 +36,6 @@ Donde la variación entre el año 2018 y el año 2021 se representa en el siguie
 
 GNU General Public License v3.0
 
-[//]:
-
    [dw1]: <https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_DYNAMICWORLD_V1>
    [gaul1]: <https://developers.google.com/earth-engine/datasets/catalog/FAO_GAUL_2015_level1>
    [gaul2]: <https://developers.google.com/earth-engine/datasets/catalog/FAO_GAUL_2015_level2>
