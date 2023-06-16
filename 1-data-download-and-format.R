@@ -94,7 +94,7 @@ save_dataframe <- function(dataframe, name = "data", overwrite = TRUE) {
 save_raster <- function(raster, filename = "Raster", overwrite = TRUE) {
   writeRaster(
     raster,
-    paste(name, "_terra.tif", sep = ""),
+    paste(filename, "_terra.tif", sep = ""),
     overwrite = overwrite,
     datatype = "INT1U"
   )
